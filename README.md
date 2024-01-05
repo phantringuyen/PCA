@@ -13,7 +13,7 @@
 - Support Software: Visual Studio Code, Google Colabotary, Github.
 - One of the most common challenges in data analysis (text, image, video, etc.) is the multidimensionality and sparsity of the data. Instances often arise where the number of data points is very small, but each point has a large number of features.
 
-<img src="https://commons.wikimedia.org/wiki/File:MnistExamplesModified.png#/media/File:MnistExamplesModified.png">
+[<img src="link_anh_cua_ban">](https://upload.wikimedia.org/wikipedia/commons/f/f7/MnistExamplesModified.png)
 - 
 - To perform basic image processing according to user needs from [OpenCV library](https://opencv.org/).
 - Installing the **Edge detection algorithm** with the algorithms learned in class and comparing it with the library-supported function.
