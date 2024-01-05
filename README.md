@@ -10,15 +10,25 @@
 | 3 | Hoang Minh Luu   | 20127048@student.hcmus.edu.vn | UI/UX Designer      |
 
 ### 2. WorkSpace
-- Support Softwares: Visual Studio Code, Google Colabotary, Github.
+- Support Software: Visual Studio Code, Google Colabotary, Github.
+- One of the most common challenges in data analysis (text, image, video, etc.) is the multidimensionality and sparsity of the data. Instances often arise where the number of data points is very small, but each point has a large number of features.
+
+<img src="https://commons.wikimedia.org/wiki/File:MnistExamplesModified.png#/media/File:MnistExamplesModified.png">
+- 
 - To perform basic image processing according to user needs from [OpenCV library](https://opencv.org/).
 - Installing the **Edge detection algorithm** with the algorithms learned in class and comparing it with the library-supported function.
 
-### 3. Algorithms included:
-- Transform colour
-- Transform geometry
-- Smooth the image (image blurring, image smoothing)
-- Edge detection algorithm
+### 3. General Framework:
+|Phase| Framework          |
+|---|------------------|
+| 1 |   |
+| 2 |  |
+| 3 |   |
+| 4 |  |
+| 5 |    |
 
-### Details of Project
+### 4. Details of Project
 - For more details, please review the **Report.pdf** file above. Thank you!
+
+
+### 5. User guide
