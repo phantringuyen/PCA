@@ -54,6 +54,44 @@
 - Last but not least, the team also presented visual aids to illustrate PCA concepts, including scatter plots of the original and transformed datasets, and an explained cumulative variance plot. These visuals are instrumental in comprehending the impact of PCA on the dataset and assessing the quality of PCA results.
 
 ### 6. User guide
+- With the program that the team has developed, the source code has been created and tested based on the detailed description of the Iris flower dataset. To obtain this dataset, users can search on the internet as it is an open-source dataset, or the team may have already prepared this dataset.
+- The team has also prepared a video recording to document the process of downloading the experimental dataset and the source code of this program, aiming to facilitate users in accessing and running the team's source code. Here is the link to the [team's demo video](https://drive.google.com/file/d/1wE0kdBCmJIuVXl3CZ5yajF119s6HVG34/view?usp=sharing).
+- The following are detailed steps providing instructions on how to use the team's Principal Component Analysis project source code.
+  - Step 1: We utilized the Google Colaboratory browser to run the PCA source code. Below are the links to access the PCA source code and the Iris.csv dataset. Users can download the source code and the experimental dataset for PCA:
+    - [PCA Source Code](https://colab.research.google.com/drive/1kz-Gj7uqvpAfeq5lVlnVr2E6t-OgOUIR)
+    - [Iris.csv Dataset](https://drive.google.com/file/d/1odvlEvwqIii8DDYdROKefBD_k0ZN9g8b/view?usp=sharing)
+
+<img src="https://i.imgur.com/E7frp7I.png">
+
+  - Step 2: Once you have obtained the PCA source code and the Iris.csv dataset, users should upload the source code onto Google Colaboratory to run the program. Open the Google Colaboratory in your web browser. Next, click on "File" in the top-left corner of the Colab interface. After that select "Upload" from the dropdown menu. Then Choose the PCA source code file that you have downloaded to upload it to Google Colab.
+
+<img src="https://i.imgur.com/PUUQJBp.png">
+
+  - Next, click on the Choose File frame, a File Folder will appear, the user selects the file Seminar02_Group10_PTTKDLNB_PCA which is the source code of the group, select Open and wait for Google Colab to open the source code. If the user screen displays the source code as shown below, it means the user has successfully opened the group's program.
+
+<img src="https://i.imgur.com/572ZOvG.png">
 
 
+  - Step 3
+<img src="https://i.imgur.com/y2oK7B7.png">
+
+  - Step 4:
+
+  - Step 5:
+
+<img src="https://i.imgur.com/NhvvukM.png">
+
+
+
+### 7. In Conclusion
+|A graph with three distinct components       |A graph with only two distinct components after being applied PCA|
+|---------------------------------------------|-----------------------------------------------------------------|
+| <img src="https://i.imgur.com/LKmV92M.png"> |<img src="https://i.imgur.com/5tgOdpB.png">                      |
+
+- Based on the chart presented in the table above, we can observe a clear separation among the three species of Iris: Setosa, Versicolor, and Virginica. Setosa stands out distinctly from the other two species, forming a distinct cluster in the bottom-left corner of the plot. On the other hand, data points for the Versicolor and Virginica flowers are somewhat overlapping, yet still forming two separate clusters in the top-right corner of the plot. This may lead to the conclusion that Versicolor and Virginica share similarities in appearance (sepals and petals), while Setosa exhibits relatively distinct features in appearance compared to the other two species.
+- Furthermore, the chart indicates that the first principal component (PC1) is more crucial than the second principal component (PC2) in distinguishing Iris species. PC1 captures approximately 92% of the total variability in the data, while PC2 accounts for only about 6%. This suggests that the majority of information in the data can be explained by PC1.
+- In general, the PCA algorithm effectively reduced the dimensionality of the Iris dataset while retaining the most important features, enabling more efficient data analysis. The resulting plot clearly illustrates the distribution and separation of different Iris species in two-dimensional space.
+- Regarding the runtime of the PCA algorithm, supported by libraries such as Numpy, Pandas, Seaborn, and Matplotlib, the program executed at a very efficient speed.
+
+### 8. Further Information
 - For further details, please visit the **Report.pdf** file provided above. Thank you very much and Have a nice day!
