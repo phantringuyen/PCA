@@ -10,6 +10,7 @@
 | 3 | Hoang Minh Luu   | 20127048@student.hcmus.edu.vn | UI/UX Designer      |
 
 ### 2. WorkSpace
+- Support Softwares: Visual Studio Code, Google Colabotary, Github.
 - To perform basic image processing according to user needs from [OpenCV library](https://opencv.org/).
 - Installing the **Edge detection algorithm** with the algorithms learned in class and comparing it with the library-supported function.
 
