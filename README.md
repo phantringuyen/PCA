@@ -72,12 +72,13 @@
 <img src="https://i.imgur.com/572ZOvG.png">
 
 
-  - Step 3
+  - Step 3: Following that, users can choose the default hardware or GPU because the program we have developed does not consume too much processing memory resources, here we will demo the default hardware format of the device. Google Colab to not consume significant space.
+
 <img src="https://i.imgur.com/y2oK7B7.png">
 
-  - Step 4:
+  - Step 4: In step 4, users can run each line of code in the program or select **Runtime** => **Run** all to run the entire program. One thing to note is that because the program needs an experimental data set, the dataset will be downloaded from the GitHub link the group posted before, and then users will be asked to allow Google Colab to link to Google Drive to download the data set. Data for the experimental program of Principal Component Analysis algorithm.
 
-  - Step 5:
+  - Step 5: When the system runs, the final result like the demo screen shows that the user has successfully executed the PCA algorithm demo program.
 
 <img src="https://i.imgur.com/NhvvukM.png">
 
